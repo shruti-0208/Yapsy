@@ -1,6 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-(/frontend/public/welcomeToYapsy.png)
+![Screenshot 2025-03-10 223507](https://github.com/user-attachments/assets/9d29e9ec-10ad-4711-b43d-250121996a88)
+
 
 Highlights:
 
@@ -24,17 +25,5 @@ CLOUDINARY_CLOUD_NAME=...
 CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 
-NODE_ENV=development
 ```
 
-### Build the app
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
-```
