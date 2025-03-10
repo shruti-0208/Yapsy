@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-](/frontend/public/welcomeToYapsy.png)
+(/frontend/public/welcomeToYapsy.png)
 
 Highlights:
 
